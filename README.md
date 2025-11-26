@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./imgs/title.png" width="100%">
+  <img src="./imgs/title.png" width="70%">
 </p>
 
 <br>
@@ -29,7 +29,7 @@
 -   **간편한 제어**: "그만 들을래" 등 간단한 명령으로 기능 정지
 
 <p align="left">
-  <img src="./imgs/touch.png" width="60%">
+  <img src="./imgs/voice.png" width="60%">
 </p>
 
 ### 2. AI 동작 인식을 활용한 음악 체조 게임
@@ -39,7 +39,7 @@
 -   **동적 난이도 조절**: 사용자의 점수에 따라 다음 동작의 난이도가 자동으로 조절되어 흥미와 참여를 유도
   
 <p align="left">
-  <img src="./imgs/loop.png" width="60%">
+  <img src="./imgs/game.png" width="60%">
 </p>
 
 ### 3. 응급 상황 감지 및 신속 알림
@@ -49,7 +49,7 @@
 -   **이력 관리**: 관리자 대시보드에서 응급 상황 발생 이력을 조회하고 관리
   
 <p align="left">
-  <img src="./imgs/sns.png" width="60%">
+  <img src="./imgs/emergency.png" width="60%">
 </p>
 
 <br>
@@ -57,10 +57,7 @@
 ## 🏛️ 시스템 아키텍처
 
 **실시간 반응성**과 **안정적인 데이터 관리**를 위해 두 개의 독립적인 시스템으로 구성된 하이브리드 아키텍처 채택
-
-<p align="left">
-  <img src="./imgs/skills.png" width="60%">
-</p>
+  
 
 ### 1. 사용자 단말 시스템 (Raspberry Pi)
 > **높은 접근성**을 위해 자동 로그인을 처리하고, Wake Word 감지
